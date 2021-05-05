@@ -11,3 +11,5 @@ skip-artifactory-platforms:
 builder-to-testers-map:
   el-7-x86_64:
     - el-7-x86_64
+  windows-2012r2-i386:
+    - windows-2012r2-i386
