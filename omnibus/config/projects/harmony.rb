@@ -19,7 +19,7 @@ dependency 'preparation'
 # dependency "liblzma"
 # dependency "zlib"
 # dependency 'openssl'
-dependency 'git'
+dependency 'expat'
 
 unless windows?
   # builds the 'discord' dummy project
